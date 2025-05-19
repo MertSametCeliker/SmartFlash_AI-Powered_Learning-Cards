@@ -88,6 +88,6 @@ Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of c
 ## Contact / İletişim / Contacto
 
 For questions about this changelog, please contact:
-- Email: your.email@example.com
+- Email: celiker_samet@hotmail.com
 - GitHub Issues: [Create an issue](https://github.com/yourusername/flashcard_generator/issues)
 - LinkedIn: [Mert Samet Çeliker](https://www.linkedin.com/in/mert-samet-çeliker-18a906294/) 

@@ -192,6 +192,6 @@ headers = {
 ## Support / Destek / Soporte
 
 For API support, please contact:
-- Email: your.email@example.com
+- Email: celiker_samet@hotmail.com
 - GitHub Issues: [Create an issue](https://github.com/yourusername/flashcard_generator/issues)
 - LinkedIn: [Mert Samet Çeliker](https://www.linkedin.com/in/mert-samet-çeliker-18a906294/) 

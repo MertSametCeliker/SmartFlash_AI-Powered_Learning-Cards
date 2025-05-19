@@ -353,4 +353,11 @@ except ValidationError as e:
 
 [Previous Spanish documentation remains unchanged...]
 
-[Rest of the content remains unchanged...] 
+[Rest of the content remains unchanged...]
+
+## Contact / İletişim / Contacto
+
+For questions and support, please contact:
+- Email: celiker_samet@hotmail.com
+- GitHub Issues: [Create an issue](https://github.com/yourusername/flashcard_generator/issues)
+- LinkedIn: [Mert Samet Çeliker](https://www.linkedin.com/in/mert-samet-çeliker-18a906294/) 

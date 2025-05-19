@@ -186,4 +186,4 @@ python -m pytest tests/ --setup-show
 For additional help:
 - Check the [documentation](docs/)
 - Open an [issue](https://github.com/yourusername/flashcard_generator/issues)
-- Contact: your.email@example.com 
+- Contact: celiker_samet@hotmail.com 
