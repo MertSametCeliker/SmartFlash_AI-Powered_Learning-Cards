@@ -60,7 +60,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Versioning / Sürümleme / Versionado
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yourusername/flashcard_generator/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/MertSametCeliker/SmartFlash_AI-Powered_Learning-Cards/tags).
 
 ## Release Notes / Sürüm Notları / Notas de Lanzamiento
 
@@ -89,5 +89,5 @@ Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of c
 
 For questions about this changelog, please contact:
 - Email: celiker_samet@hotmail.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/flashcard_generator/issues)
+- GitHub Issues: [Create an issue](https://github.com/MertSametCeliker/SmartFlash_AI-Powered_Learning-Cards/issues)
 - LinkedIn: [Mert Samet Çeliker](https://www.linkedin.com/in/mert-samet-çeliker-18a906294/) 

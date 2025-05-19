@@ -193,5 +193,5 @@ headers = {
 
 For API support, please contact:
 - Email: celiker_samet@hotmail.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/flashcard_generator/issues)
+- GitHub Issues: [Create an issue](https://github.com/MertSametCeliker/SmartFlash_AI-Powered_Learning-Cards/issues)
 - LinkedIn: [Mert Samet Çeliker](https://www.linkedin.com/in/mert-samet-çeliker-18a906294/) 

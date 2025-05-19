@@ -13,8 +13,8 @@
 ### 1. Clone the Repository / Depoyu Klonlayın / Clonar el Repositorio
 
 ```bash
-git clone https://github.com/yourusername/flashcard_generator.git
-cd flashcard_generator
+git clone https://github.com/MertSametCeliker/SmartFlash_AI-Powered_Learning-Cards.git
+cd SmartFlash_AI-Powered_Learning-Cards
 ```
 
 ### 2. Create and Activate Virtual Environment / Sanal Ortam Oluşturun ve Aktifleştirin / Crear y Activar Entorno Virtual
@@ -185,5 +185,5 @@ python -m pytest tests/ --setup-show
 
 For additional help:
 - Check the [documentation](docs/)
-- Open an [issue](https://github.com/yourusername/flashcard_generator/issues)
+- Open an [issue](https://github.com/MertSametCeliker/SmartFlash_AI-Powered_Learning-Cards/issues)
 - Contact: celiker_samet@hotmail.com 

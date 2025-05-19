@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32.0-FF4B4B)](https://streamlit.io/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-0.3.2-orange)](https://ai.google.dev/)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/yourusername/flashcard_generator/issues)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MertSametCeliker/SmartFlash_AI-Powered_Learning-Cards/issues)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mert-samet-çeliker-18a906294/)
 
 <div align="center">
@@ -196,7 +196,7 @@
 
 1. **Clone with Specific Branch**:
    ```bash
-   git clone -b stable https://github.com/yourusername/flashcard_generator.git
+   git clone -b stable https://github.com/MertSametCeliker/SmartFlash_AI-Powered_Learning-Cards.git
    ```
 
 2. **Create Virtual Environment with Specific Python Version**:
